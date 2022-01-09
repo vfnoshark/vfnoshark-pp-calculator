@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vfnoshark pp calculator", "vfnoshark pp calculator\vfnoshark pp calculator.csproj", "{D18DB929-5302-441C-9699-0698EE9F8AD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{72E74DC7-9335-4827-ABC1-D5083085BFA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OppaiSharp", "OppaiSharp-master\OppaiSharp-master\OppaiSharp\OppaiSharp.csproj", "{FBDFAE57-B3C0-410E-A8DB-16248A06FCB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18DB929-5302-441C-9699-0698EE9F8AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18DB929-5302-441C-9699-0698EE9F8AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18DB929-5302-441C-9699-0698EE9F8AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18DB929-5302-441C-9699-0698EE9F8AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDFAE57-B3C0-410E-A8DB-16248A06FCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDFAE57-B3C0-410E-A8DB-16248A06FCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDFAE57-B3C0-410E-A8DB-16248A06FCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDFAE57-B3C0-410E-A8DB-16248A06FCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838BC705-8B78-4F97-B60E-067224745089}
+	EndGlobalSection
+EndGlobal

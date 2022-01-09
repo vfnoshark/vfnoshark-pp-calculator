@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>vfnoshark_pp_calculator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Group 2491.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OppaiSharp-master\OppaiSharp-master\OppaiSharp\OppaiSharp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Group 2491.png" />
+  </ItemGroup>
+
+</Project>
