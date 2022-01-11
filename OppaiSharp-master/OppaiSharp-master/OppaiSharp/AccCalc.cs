@@ -41,7 +41,7 @@ namespace OppaiSharp
         /// <summary>
         /// Rounds to the closest amount of 300s, 100s, 50s for a given accuracy percentage
         /// </summary>
-        /// <param name="accPercent"></param>
+        /// <param name="accPercent"></param>   
         /// <param name="countObjects">
         /// The total number of hits (<see cref="Count300"/> + <see cref="Count100"/> + <see cref="Count50"/> + 
         /// <see cref="CountMiss"/>)

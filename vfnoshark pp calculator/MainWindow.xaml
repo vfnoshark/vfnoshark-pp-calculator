@@ -152,10 +152,10 @@
                 <ToggleButton x:Name="HD_Button" Content="HD" Margin="146,418,8,482" Checked="HD_Button_Checked" Grid.ColumnSpan="6"/>
                 <ToggleButton x:Name="DT_Button" Content="DT" Margin="78,418,215,478" Grid.Column="7" Checked="DT_Button_Checked" RenderTransformOrigin="1.05,0.481" Grid.ColumnSpan="2"/>
                 <ToggleButton x:Name="HR_Button" Content="HR" Margin="231,350,146,413" Grid.Column="8" Checked="HR_Button_Checked" Grid.ColumnSpan="2"/>
-                <ToggleButton x:Name="FL_Button" Content="FL" Margin="180,420,186,485" Grid.Column="9" Grid.ColumnSpan="2"/>
-                <ToggleButton x:Name="ES_Button" Content="ES" Margin="140,510,146,353" Grid.Column="9" Grid.ColumnSpan="2"/>
+                <ToggleButton x:Name="FL_Button" Content="FL" Margin="180,420,186,485" Grid.Column="9" Grid.ColumnSpan="2" Checked="FL_Button_Checked"/>
+                <ToggleButton x:Name="ES_Button" Content="ES" Margin="140,510,146,353" Grid.Column="9" Grid.ColumnSpan="2" Checked="ES_Button_Checked"/>
                 <ToggleButton x:Name="SO_Button" Content="SO" Margin="279,520,191,359" Grid.Column="8" Grid.ColumnSpan="2" Checked="SO_Button_Checked"/>
-                <ToggleButton x:Name="HF_Button" Content="HF" Margin="152,520,8,360" Grid.ColumnSpan="6" Checked="HF_Button_Checked"/>
+                <ToggleButton x:Name="HT_Button" Content="HT" Margin="152,520,8,360" Grid.ColumnSpan="6" Checked="HT_Button_Checked"/>
                 <ToggleButton x:Name="NF_Button" Content="NF" Margin="80,524,214,362" Grid.Column="7" Checked="NF_Button_Checked" Grid.ColumnSpan="2"/>
 
                 <Label 

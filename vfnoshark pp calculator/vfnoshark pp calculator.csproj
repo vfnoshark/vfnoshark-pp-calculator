@@ -13,6 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\OppaiSharp-master\OppaiSharp-master\OppaiSharp\OppaiSharp.csproj" />
   </ItemGroup>
 
