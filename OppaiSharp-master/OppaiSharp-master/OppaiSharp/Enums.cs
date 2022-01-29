@@ -5,6 +5,7 @@ namespace OppaiSharp
     [Flags]
     public enum Mods
     {
+        
         NoMod = 0,
         NoFail = 1 << 0,
         Easy = 1 << 1,

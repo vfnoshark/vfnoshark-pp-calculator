@@ -43,7 +43,7 @@ namespace OppaiSharp
         /// </summary>
         /// <param name="accPercent"></param>   
         /// <param name="countObjects">
-        /// The total number of hits (<see cref="Count300"/> + <see cref="Count100"/> + <see cref="Count50"/> + 
+        /// The total number of      (<see cref="Count300"/> + <see cref="Count100"/> + <see cref="Count50"/> + 
         /// <see cref="CountMiss"/>)
         /// </param>
         /// <param name="countMiss"></param>

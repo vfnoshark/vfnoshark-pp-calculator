@@ -35,7 +35,7 @@ namespace OppaiSharp
 
         public static Beatmap Read(StreamReader reader) => Parser.Read(reader);
 
-        internal Beatmap() { }
+        public Beatmap() { }
 
         public override string ToString()
         {

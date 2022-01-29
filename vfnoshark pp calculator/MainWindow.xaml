@@ -124,13 +124,13 @@
                     BorderThickness="0" Grid.Column="1" Grid.ColumnSpan="8" Margin="36,225,356,708">
                     <TextBox x:Name="MapIDBox" Background="Transparent" Foreground="White" FontFamily="Roboto" BorderThickness="0" Text="00000000" FontSize="64" TextAlignment="Center" FontStyle="Normal" FontWeight="Normal" Margin="0,10,0,0" TextChanged="MapIDBox_TextChanged"/>
                 </Border>
-                <Label Content="Accuracy" FontFamily="Roboto" FontSize="64" Foreground="White" Margin="116,139,22,806" Grid.Column="8"/>
+                <Label Content="100's hits" FontFamily="Roboto" FontSize="64" Foreground="White" Margin="92,139,22,806" Grid.Column="8"/>
                 <Border
                     Padding="1"
                     CornerRadius="20"
                     Background="#737373"
                     BorderThickness="0" Grid.Column="8" Margin="75,225,274,708" Grid.ColumnSpan="2">
-                    <TextBox x:Name="AccBox" Background="Transparent" Foreground="White" FontFamily="Roboto" BorderThickness="0" Text="100,00" FontSize="64" TextAlignment="Center" FontStyle="Normal" FontWeight="Normal" Margin="0,10,0,0" TextChanged="AccuracyBox_TextChanged"/>
+                    <TextBox x:Name="AccBox" Background="Transparent" Foreground="White" FontFamily="Roboto" BorderThickness="0" Text="0" FontSize="64" TextAlignment="Center" FontStyle="Normal" FontWeight="Normal" Margin="0,10,0,0" TextChanged="AccuracyBox_TextChanged"/>
                 </Border>
                 <Label Content="Combo" FontFamily="Roboto" FontSize="64" Foreground="White" Grid.Column="9" Margin="72,137,287,810" Grid.ColumnSpan="2"/>
                 <Border
